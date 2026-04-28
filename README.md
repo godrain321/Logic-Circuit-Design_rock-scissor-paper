@@ -4,7 +4,7 @@ Sequential logic circuit design for a Rock-Paper-Scissors game using FSM and Gat
 
 using simulator: circuitverse
 
-
+https://github.com/godrain321/Logic-Circuit-Design_rock-scissor-paper/blob/main/result.gif?raw=true
 
 
 
